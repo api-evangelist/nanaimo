@@ -1,0 +1,42 @@
+{
+    "name": "Nanaimo",
+    "description": "Nanaimo is a vibrant urban centre found on the east side of beautiful Vancouver Island where an abundance of recreation and cultural opportunities exist giving residents a lifestyle second to none for living, working and playing.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/737-nanaimo.jpg",
+    "tags": [
+        "api not found",
+        "canada",
+        "city government",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nanaimo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Nanaimo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/737-nanaimo.jpg",
+            "humanURL": "http:\/\/www.nanaimo.ca\/EN\/main\/departments\/106\/DataCatalogue\/Developers.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nanaimo-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cityofnanaimo"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.nanaimo.ca\/EN\/main\/departments\/106\/DataCatalogue\/Developers.html"
+        }
+    ]
+}
